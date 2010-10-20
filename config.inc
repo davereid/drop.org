@@ -6,8 +6,8 @@ date_default_timezone_set('America/Chicago');
 # MySQL settings:
 #
 $dbhost = "localhost";
-$dbuname = "test";
-$dbpass = "test";
+$dbuname = "drupal";
+$dbpass = "drupal";
 $dbname = "drop";
 
 #
@@ -29,7 +29,7 @@ $contact_signature = "Kind regards,\n\n-- the drop.org crew\nhttp://www.drop.org
 #
 $notify_email   = $contact_email;
 $notify_subject = "submission: ";
-$notify_message = "New submission: '\$subject'\n\n\$story";
+$notify_message = "New submission: '$subject'\n\n$story";
 $notify_from    = "droppies@zind.net";
 
 #
