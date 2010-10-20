@@ -1,3 +1,5 @@
+View the API docs at http://drop-api.mattfarina.com/
+
 Notes:
 * Requires that your PHP config can enable register_globals.
 * Must be installed at the root level and not inside a sub-folder.
