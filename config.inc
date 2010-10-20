@@ -6,8 +6,8 @@ date_default_timezone_set('America/Chicago');
 # MySQL settings:
 #
 $dbhost = "localhost";
-$dbuname = "drupal";
-$dbpass = "drupal";
+$dbuname = "test";
+$dbpass = "test";
 $dbname = "drop";
 
 #
